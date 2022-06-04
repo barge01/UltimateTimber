@@ -140,7 +140,7 @@ use-custom-particles: true
 # Multiplies the chance of tree drops by this value
 # Decimal values are allowed
 # Default: 2
-bonus-loot-multiplier: 2
+bonus-loot-multiplier: 0
 
 # If placed blocks should be ignored for toppling trees
 # Note: This only keeps track of blocks placed during the current server load
